@@ -1,0 +1,48 @@
+{
+    "name": "warrior",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-sight": "github:felixtsu/pxt-sight#v0.2.2",
+        "arcade-fake-button-press": "github:riknoll/arcade-fake-button-press#v0.0.5",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.63",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#f8f8f8",
+        "#f80000",
+        "#FF93C4",
+        "#f8a830",
+        "#f8f858",
+        "#089050",
+        "#70d038",
+        "#2868c0",
+        "#10c0c8",
+        "#c868e8",
+        "#c0c0c0",
+        "#787878",
+        "#f8d898",
+        "#c04800",
+        "#000000"
+    ]
+}
